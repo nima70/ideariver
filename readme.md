@@ -149,6 +149,28 @@ The **Ideariver.config** repository contains essential configuration files that 
 This monorepo supports seamless integration with its submodules, allowing easy management and updates across the ecosystem. Ensure you explore each submodule’s repository for detailed instructions on how to integrate and manage them within your own projects.
 
 ---
+
+### 🛠 Quick Start
+
+To get started with IdeaRiver, follow these steps:
+Clone the repository:
+
+```bash
+git clone --recurse-submodules https://github.com/nima70/ideariver.git
+```
+Navigate to the repository directory:
+
+```bash
+cd ideariver
+```
+Initialize and update submodules:
+If the repository was cloned without the --recurse-submodules flag, initialize and update the submodules manually:
+```bash
+git submodule init
+git submodule update --recursive
+```
+---
+
 ## ❤️ Please Contribute
 
 We welcome contributions to help make the **IdeaRiver** platform even better! Whether you want to report issues, suggest features, or submit pull requests, your help is greatly appreciated. Together, we can build something amazing!

@@ -120,6 +120,29 @@ The **IdeaRiver Services Server** repository is a robust Node.js library for bui
 - **Database Support**: Works out of the box with PostgreSQL and SQLite databases.
 - **Extensive Test Coverage**: Comes with Jest and Supertest tests to ensure reliability.
 
+---
+
+### **/plugins**
+#### **ideariver-plugins-python**  
+We are excited to introduce the new **ideariver-plugins-python** submodule! This repository includes a collection of sample Python plugins that are designed to be modular, reusable, and extensible. The plugins can be integrated into the IdeaRiver ecosystem or used independently for various tasks like content creation, audio processing, and video analysis.
+
+#### Key Features:
+- 🧠 **Chapter Detection Plugin**: Uses AI to detect chapters in video transcripts and generate timestamps.
+- 🎤 **Transcribe Audio Plugin**: Leverages the Whisper model to transcribe audio files with timestamps.
+- ✍️ **Convert to MDX Plugin**: Automatically converts transcripts into MDX format for React applications.
+- 📜 **YouTube Description Plugin**: Generates engaging YouTube video descriptions based on transcripts.
+- 🧮 **Sum Plugin**: Provides quick and efficient number summation.
+- 🎵 **Download Audio Plugin**: Downloads high-quality audio from YouTube videos across platforms.
+
+Explore the [ideariver-plugins-python](https://github.com/nima70/ideariver-plugins-python.git) repository to discover more about these powerful tools and how to integrate them into your workflow.
+
+---
+### **/config**
+#### **ideariver.config.public**  
+The **Ideariver.config** repository contains essential configuration files that are shared across the IdeaRiver platform. These configurations help manage events and handle platform-wide settings efficiently.
+
+#### Repository:
+[ideariver.config.public](https://github.com/nima70/ideariver.config.public.git)
 
 ---
 
@@ -160,14 +183,7 @@ Next.js, Tailwind CSS, ShadCN UI, TypeScript, AWS, Terraform, Ansible, and Expre
 
 ---
 
-### **/config**
-#### **ideariver.config.public**  
-The **Ideariver.config** repository contains essential configuration files that are shared across the IdeaRiver platform. These configurations help manage events and handle platform-wide settings efficiently.
 
-#### Repository:
-[ideariver.config.public](https://github.com/nima70/ideariver.config.public.git)
-
----
 
 ## 🔧 Setup Instructions
 

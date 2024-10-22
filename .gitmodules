@@ -19,3 +19,6 @@
 [submodule "config/ideariver.config.public"]
 	path = config/ideariver.config.public
 	url = https://github.com/nima70/ideariver.config.public.git
+[submodule "plugins/ideariver-plugins-python"]
+	path = plugins/ideariver-plugins-python
+	url = https://github.com/nima70/ideariver-plugins-python.git

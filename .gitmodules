@@ -1,0 +1,21 @@
+[submodule "core/ideariver-core-python"]
+	path = core/ideariver-core-python
+	url = https://github.com/nima70/ideariver-core-python.git
+[submodule "core/ideariver.schemas"]
+	path = core/ideariver.schemas
+	url = https://github.com/nima70/ideariver.schemas.git
+[submodule "core/ideariver.core.public"]
+	path = core/ideariver.core.public
+	url = https://github.com/nima70/ideariver.core.public.git
+[submodule "services/ideariver-services-python"]
+	path = services/ideariver-services-python
+	url = https://github.com/nima70/ideariver-services-python.git
+[submodule "app/ideariver.terraform"]
+	path = app/ideariver.terraform
+	url = https://github.com/nima70/ideariver.terraform.git
+[submodule "app/ideariver.client.web"]
+	path = app/ideariver.client.web
+	url = https://github.com/nima70/ideariver.client.web.git
+[submodule "config/ideariver.config.public"]
+	path = config/ideariver.config.public
+	url = https://github.com/nima70/ideariver.config.public.git

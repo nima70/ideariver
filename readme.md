@@ -97,6 +97,19 @@ The **Ideariver Services Python** repository provides essential services used ac
 [ideariver-services-python](https://github.com/nima70/ideariver-services-python.git)
 
 ---
+#### **ideariver.services.server.public**  
+The **IdeaRiver Services Server** repository is a robust Node.js library for building scalable backend services with a focus on security, modularity, and extensibility. It provides a comprehensive solution for handling CRUD operations, authentication, and middleware management, built on top of **Express** and **TypeORM**.
+
+#### Features:
+- **Abstracted CRUD Operations**: Simplifies the implementation of Create, Read, Update, Delete (CRUD) functionalities.
+- **OpenID Connect Authentication**: Seamlessly integrates with Keycloak for secure authentication and authorization.
+- **Middleware Support**: Offers customizable pre- and post-processing through middleware.
+- **Security Enhancements**: Includes rate limiting, Helmet for security headers, and CSRF protection.
+- **Database Support**: Works out of the box with PostgreSQL and SQLite databases.
+- **Extensive Test Coverage**: Comes with Jest and Supertest tests to ensure reliability.
+
+
+---
 
 ### **/app**
 #### **ideariver.terraform**  

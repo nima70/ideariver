@@ -1,6 +1,14 @@
-# Ideariver
+<div align="center">
+  <h1>Ideariver</h1>
+</div>
 
 Welcome to the **Ideariver** repository! This is the central monorepo for the IdeaRiver ecosystem, hosting various submodules that enable scalable development and seamless integration of different projects within the platform.
+
+[![Watch the video](https://img.youtube.com/vi/1ji7S394CKA/maxresdefault.jpg)](https://youtu.be/1ji7S394CKA)
+
+### [Watch this video on YouTube](https://youtu.be/1ji7S394CKA)
+
+
 
 ## 🎯 Objective
 
@@ -23,6 +31,10 @@ Join the **IdeaRiver** community and help expand the platform with tools that so
 **IdeaRiver** is a modular, scalable platform designed with cutting-edge technologies to manage various digital services and applications. The platform is built with a combination of modern development paradigms, including **Domain-Driven Design (DDD)**, **Event-Driven Architecture**, **Microservices**, and a highly flexible **Plugin System Architecture**. These paradigms are powered by a robust set of tools and libraries to ensure flexibility, efficiency, and scalability.
 
 ### Key Architectural Concepts:
+
+[![Watch the video](https://img.youtube.com/vi/Lh8YLY2t1Zk/maxresdefault.jpg)](https://youtu.be/Lh8YLY2t1Zk)
+
+### [Watch this video on YouTube](https://youtu.be/Lh8YLY2t1Zk)
 
 - **Domain-Driven Design (DDD)**: DDD helps in structuring the codebase around core business domains, with a clear separation of concerns between the domain logic, infrastructure, and services. This makes the system highly maintainable and adaptable to business changes.
 

@@ -4,10 +4,7 @@
 
 Welcome to the **Ideariver** repository! This is the central monorepo for the IdeaRiver ecosystem, hosting various submodules that enable scalable development and seamless integration of different projects within the platform.
 
-[![Watch the video](https://img.youtube.com/vi/1ji7S394CKA/maxresdefault.jpg)](https://youtu.be/1ji7S394CKA)
-
-### [Watch this video on YouTube](https://youtu.be/1ji7S394CKA)
-
+https://github.com/user-attachments/assets/d2532fc1-9f15-414b-93b9-39b38985d540
 
 
 ## 🎯 Objective
